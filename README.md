@@ -1,6 +1,6 @@
 Hello!
 
-My name is Karam Alkaissy and this is my GitHub link for engineering in regards to GRIP 2025: Sustainable Development in Ho Chi Minh City :)
+My name is Karam Alkaissy and this is my GitHub link for engineering in regards to GRIP 2025: Sustainable Development in Ho Chi Minh City.
 
 I have included two items:
 
